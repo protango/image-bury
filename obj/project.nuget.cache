@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "d7h4leE9AvQEvKrto0vIby/NsY0uzjtCLJnPXpg/F2nhRlaNrpxaJNyO0gz7TG6z3gzKXP7mEgrpVjGwD62r+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zac\\source\\repos\\Image_Bury\\Image_Bury.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zac\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Zac\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Zac\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

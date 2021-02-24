@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Image_Bury": {
+      "commandName": "Project",
+      "commandLineArgs": "testFile.txt testImage.jpg"
+    }
+  }
+}
